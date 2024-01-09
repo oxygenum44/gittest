@@ -13,6 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm2222')
     print_hi('hey github')
-    print_hi('hey github')
+    print_hi('hey gith4353ub')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
