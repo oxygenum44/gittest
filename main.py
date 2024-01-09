@@ -11,7 +11,7 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm2222')
+    print_hi('PyChar3432m2222')
     print_hi('hey gi3424543thub')
     print_hi('hey gith4353ub')
 
