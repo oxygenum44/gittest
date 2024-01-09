@@ -12,7 +12,7 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyChar3432m2222')
-    print_hi('hey gi3424543thub')
-    print_hi('hey gith4353ub')
+    print_hi('hey gi342423546346587543thub')
+
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
